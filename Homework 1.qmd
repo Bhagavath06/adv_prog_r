@@ -82,3 +82,7 @@ ggplot(mtcars, aes(x=hp, y=mpg)) +
 ## Conclusion
 
 From the above plot we can see that on moving right (when horsepower increases) the miles per gallon of the car tends to decrease, which implies that cars that are more powerful are typically less fuel efficient.
+
+```{r}
+# The qurto file, which rendered to pdf for report creation is added to the public repository in github.
+```
